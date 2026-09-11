@@ -1,0 +1,12 @@
+{
+  "netease": {
+    "front": "/badges/netease-front.svg?v=f2eebbc4e2a2",
+    "back": "/badges/netease-back.svg?v=f2eebbc4e2a2",
+    "band": "/badges/netease-band.svg?v=f2eebbc4e2a2"
+  },
+  "caitong": {
+    "front": "/badges/caitong-front.svg?v=a26d23135439",
+    "back": "/badges/caitong-back.svg?v=a26d23135439",
+    "band": "/badges/caitong-band.svg?v=a26d23135439"
+  }
+}

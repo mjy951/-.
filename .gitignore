@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.pnpm-store/
+.tools/
+*.local
+.env
+.env.*
+!.env.example
+
+# Local source footage, generated previews and reference downloads
+source-media/
+output/
+*-performance-check.png
+*-registry.json
